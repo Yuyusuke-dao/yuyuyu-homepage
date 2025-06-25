@@ -1,0 +1,36 @@
+﻿/* style.css */
+body
+{
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header{
+    background: #4caf50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 1em;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em;
+    background: white;
+    max-width: 800px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #ddd;
+}
